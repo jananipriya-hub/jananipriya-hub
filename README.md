@@ -7,11 +7,13 @@
 - SQL
 - Excel
 - Power BI
-- Python (Basics)
+- Python
 
 ## Projects
 - HR Analytics Dashboard (Power BI)
 - Sales Analysis using Excel
+- Automated Stock Analysis
+- E-Commerce Data Analysis
 
 ## Currently Learning
 - Advanced SQL
