@@ -1,7 +1,7 @@
 # Hi, I'm Janani Priya 👋
 
-🎓 B.Tech Student | 4th Semester  
-📊 Aspiring Data Analyst  
+ I’m a B.Tech IT Student (4th Semester) at GTEC, passionate about transforming raw data into actionable business stories. 
+ Currently, I am specializing in Analytics Engineering.I love building automated pipelines and interactive dashboards that make data move.
 
 ## Skills
 - SQL
