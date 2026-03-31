@@ -10,10 +10,12 @@
 - Python
 
 ## Projects
-- HR Analytics Dashboard (Power BI)
-- Sales Analysis using Excel
-- Automated Stock Analysis
-- E-Commerce Data Analysis
+-  Automated Stock Data using Python and BigQuery
+-  Global Sales Analysis uisng Power BI
+-  HR Attrition Analysis using Excel
+-  SQL E-Commerce Analysis
+-  Sales Analysis using Power BI
+
 
 ## Currently Learning
 - Advanced SQL
